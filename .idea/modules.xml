@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oauth-server/oauth-server.iml" filepath="$PROJECT_DIR$/oauth-server/oauth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remote-resource-server/resource-server.iml" filepath="$PROJECT_DIR$/remote-resource-server/resource-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-resource-server/resource-server2.iml" filepath="$PROJECT_DIR$/jdbc-resource-server/resource-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-security-oauth2-jdbc.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-security-oauth2-jdbc.iml" />
+    </modules>
+  </component>
+</project>
